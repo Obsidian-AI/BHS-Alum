@@ -1,0 +1,10 @@
+{
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "editor.tabSize": 2,
+    "editor.formatOnPaste": false,
+    "editor.formatOnType": false,
+    "editor.formatOnSave": true,
+    "vs-code-prettier-eslint.prettierLast": "false", // set as "true" to run 'prettier' last not first
+    "editor.snippetSuggestions": "top", // Set the JEST snippets to the top
+    "editor.wordWrap": "on"
+}
